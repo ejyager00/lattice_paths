@@ -21,3 +21,5 @@ For example:
 ```
 # python3 get_data.py 4 3 lattice4by3results.tsv i
 ```
+
+Published in the [RHUMJ](https://scholar.rose-hulman.edu/rhumj/vol24/iss2/6/)
